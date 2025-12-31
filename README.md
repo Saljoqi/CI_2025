@@ -41,11 +41,6 @@ Installation
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/ai-research-analyzer.git
-cd ai-research-analyzer
-Install dependencies:
-
-Bash
 pip install -r requirements.txt
 Set up Environment: Create a .env file (if you plan to use OpenAI models, otherwise the current setup uses Ollama).
 
